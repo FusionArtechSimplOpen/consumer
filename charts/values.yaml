@@ -1,6 +1,9 @@
+#values:
+#  repo_URL: https://code.europa.eu/simpl/simpl-open/development/agents/consumer.git
+#  branch: v1.3.0
 values:
-  repo_URL: https://code.europa.eu/simpl/simpl-open/development/agents/consumer.git
-  branch: v1.3.0
+  repo_URL: https://github.com/FusionArtechSimplOpen/consumer.git
+  branch: main
 
 project: ${PROJECT}
 namespaceTag: ${NAMESPACETAG}
